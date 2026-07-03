@@ -1,4 +1,4 @@
-# tienda_plantas
+# mi_libreria
 
 A new Flutter project.
 
